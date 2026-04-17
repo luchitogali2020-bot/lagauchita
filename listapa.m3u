@@ -1,0 +1,112 @@
+EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
+http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x8t5G6g/C5N.jpg" group-title="ARGENTINA",C5N
+http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/c5n_480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcD7ZZC4/SPACE.jpg" group-title="CINE",CANAL SPACE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png" group-title="CINE",TNT CINE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
+https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP1
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="VARIOS",HISTORY
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwxp4RXR/ESPN.png" group-title="deportes",ESPN 1 AR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMVTCvDc/TYC.jpg8" group-title="deportes",TYC
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg" group-title="deportes",TNT SPORTS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="deportes",ESPN PREMIUM
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTp3cKP8/foxsports.png",FOX SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLqyfM3m/images.jpg",DIRECTV SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
+
+#EXTINF:-1 group-title="FULLHD",TN NOTICIAS
+http://181.13.252.102:8000/play/a058/index.m3u8
+
+#EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
+http://181.13.252.102:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="FULLHD",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
